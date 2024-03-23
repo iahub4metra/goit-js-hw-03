@@ -1,4 +1,4 @@
-`use strict`;
+"use strict";
 function slugify(title) {
     title = title.toLowerCase();
     const slug = title.split(" ");
